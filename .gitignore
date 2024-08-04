@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+RAVDESS SPEECH.zip
+RAVDESS SONG.zip
+TESS.zip
+/RAVDESS SPEECH
+/TESS
+/RAVDESS SONG
+/Audio Files
+*.json
+
+
 # C extensions
 *.so
 
